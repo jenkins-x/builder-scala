@@ -1,4 +1,4 @@
-FROM jenkinsxio/builder-base:0.0.243
+FROM jenkinsxio/builder-base:0.0.244
 
 ENV SCALA_VERSION 2.12.5
 ENV SBT_VERSION 1.1.2
